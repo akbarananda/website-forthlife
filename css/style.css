@@ -319,7 +319,7 @@ body {
     object-fit: cover;
     aspect-ratio: 2/1;
     width: 200px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .menu .row .menu-card .menu-card-title {
